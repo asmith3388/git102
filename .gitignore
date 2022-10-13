@@ -9,5 +9,6 @@ ehthumbs.db
 Thumbs.db
 #local env#
 .env.local
+.env.production.local
 #history#
 .history
